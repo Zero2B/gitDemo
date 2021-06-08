@@ -10,5 +10,6 @@ public class GitDemo {
         System.out.println("idea的git测试二");
         System.out.println("master的git测试");
         System.out.println("hotfix的git测试");
+        System.out.println("master的git测试二");
     }
 }
