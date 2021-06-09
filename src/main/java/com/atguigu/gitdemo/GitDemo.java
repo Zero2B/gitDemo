@@ -7,6 +7,7 @@ package com.atguigu.gitdemo;
 public class GitDemo {
     public static void main(String[] args){
         System.out.println("master的测试一");
+        System.out.println("master的测试二");
     }
 
     public void hotfix(){
