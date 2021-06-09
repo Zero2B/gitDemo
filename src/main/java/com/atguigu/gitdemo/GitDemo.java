@@ -6,6 +6,10 @@ package com.atguigu.gitdemo;
  */
 public class GitDemo {
     public static void main(String[] args){
-        System.out.println("idea的git测试一");
+        System.out.println("master的测试一");
+    }
+
+    public void hotfix(){
+        System.out.println("hotfix的测试");
     }
 }
