@@ -8,6 +8,7 @@ public class GitDemo {
     public static void main(String[] args){
         System.out.println("master的测试一");
         System.out.println("master的测试二");
+        System.out.println("master的测试三");
     }
 
     public void hotfix(){
