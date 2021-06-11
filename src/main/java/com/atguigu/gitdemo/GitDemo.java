@@ -14,5 +14,6 @@ public class GitDemo {
 
     public void hotfix(){
         System.out.println("hotfix的测试");
+        System.out.println("hotfix的测试");
     }
 }
